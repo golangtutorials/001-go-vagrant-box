@@ -1,2 +1,2 @@
-# go-lang-vagrant
-This is a base implementation of Ubuntu 16.04 and Go
+# Golang (Go) Vagrant Build with Ubuntu 16.04
+This is repo is for Episode 1 of the golangtutorials. 
