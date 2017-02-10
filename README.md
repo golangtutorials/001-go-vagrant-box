@@ -15,4 +15,5 @@ This is repo is for Episode 1 of the Golang Tutorials.
 5. type: cd /vagrant/workspace
 6. type: go run main.go -- This should return the following: **Hello world!**
 
-##Coming soon, Youtube video to support the repo
+##Youtube Tutorial
+https://www.youtube.com/watch?v=dZHbhZqdFWY&t=18s
